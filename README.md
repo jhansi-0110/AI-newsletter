@@ -1,1 +1,2 @@
-# AI-newsletter
+
+# AI-And-Tech

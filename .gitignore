@@ -1,0 +1,20 @@
+# Ignore environment variables file
+.env
+
+# Ignore SQLite database file
+newsletter.db
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder (if using virtualenv)
+venv/
+env/
+
+# Ignore IDE/editor configurations
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
